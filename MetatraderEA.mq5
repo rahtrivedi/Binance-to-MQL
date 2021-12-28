@@ -1,14 +1,12 @@
 //+------------------------------------------------------------------+
 //|                                                           EA.mq5 |
-//|                                  Copyright 2021, MetaQuotes Ltd. |
-//|                                             https://www.mql5.com |
+//|                                      Copyright 2021, mql-ea Ltd. |
+//|                                           https://www.mql-ea.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2021, MetaQuotes Ltd."
-#property link      "https://www.mql5.com"
+#property copyright "Copyright 2021, mql-ea Ltd."
+#property link      "https://www.mql-ea.com"
 #property version   "1.00"
-//+------------------------------------------------------------------+
-//| Expert initialization function                                   |
-//+------------------------------------------------------------------+
+
 int OnInit()
   {
 //---
