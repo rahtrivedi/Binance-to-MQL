@@ -1,1 +1,1 @@
-# Binance-to-MQL
+# Binance-to-Metatrader
